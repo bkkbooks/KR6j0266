@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR6j0266/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0266/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 世尊聖者千眼千首千足千舌千臂觀自在菩提薩埵怛嚩廣大圓滿無礙大悲心陀羅尼
+  identifiers:
+    krp: KR6j0266
+    cbeta: T20n1062B
+    cbeta_old_id: T20n1062B
+    authorityid: CA0003105
+    json_key: T1062B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1062B.xml
+    old_id: T20n1062B
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0266_000-T.yaml, hash: 'sha256:d9ad76da6516c539bb3facc1e93a281be6660380ce8210d74591403b357b555a'}
+  - {seq: 1, filename: KR6j0266_001-T.yaml, hash: 'sha256:f8a72e93e9af1420a55bad41e8636b00f43734edc7bb72edac593ba5daef2e75'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0266_000-T.markers.yaml, hash: 'sha256:fa84f5e7d6c5dbb2157ea5d68909adad1b467a5e67a797636a3c2283fef689a9'}
+  - {seq: 1, role: markers, filename: assets/KR6j0266_001-T.markers.yaml, hash: 'sha256:2950d9553818de673f2203ba0f75a28fd2ce056298fb65f03650fe4106cb8de9'}
+table_of_contents:
+- ref: {seq: 1, marker_id: KR6j0266_T_001-juan-start, span: [body, 0, 6]}
+  label: '世尊聖者千眼千首千足千舌千
+
+    臂觀自在菩提薩埵怛嚩廣大圓
+
+    滿無礙大悲心陀羅尼'
+  type: juan
+  level: 1
+hash: sha256:ad333a7ede2ce9aa8070fb537f20733060d36669aaca96d6e01a5c9f9ac0a4f9

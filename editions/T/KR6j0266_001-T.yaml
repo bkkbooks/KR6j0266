@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR6j0266/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 􅑈􅝩􅝳􅑉􅝪􅁥
+  hash: sha256:2825eba53d7bb684b1a9d35e69b699b953d3d0b45cf2dbdce79be730b555ba66
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '世尊聖者千眼千首千足千舌千
+
+      臂觀自在菩提薩埵怛嚩廣大圓
+
+      滿無礙大悲心陀羅尼', id: KR6j0266_T_001-juan-start, juan_n: '001', jhead: '世尊聖者千眼千首千足千舌千
+
+      臂觀自在菩提薩埵怛嚩廣大圓
+
+      滿無礙大悲心陀羅尼'}
+metadata:
+  title: 世尊聖者千眼千首千足千舌千臂觀自在菩提薩埵怛嚩廣大圓滿無礙大悲心陀羅尼
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1062B.xml
+    old_id: T20n1062B
+hash: sha256:f8a72e93e9af1420a55bad41e8636b00f43734edc7bb72edac593ba5daef2e75

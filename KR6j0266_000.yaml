@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0266/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 世尊聖者千眼千首千足千舌千臂觀自在菩提薩埵怛嚩廣大圓滿無礙大悲心陀羅尼
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1062B.xml
+    old_id: T20n1062B
+hash: sha256:d9ad76da6516c539bb3facc1e93a281be6660380ce8210d74591403b357b555a
